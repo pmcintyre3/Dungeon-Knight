@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1204362d-ee39-45dc-9b77-3993b58000d0" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/Mountains.png" afterPath="$PROJECT_DIR$/media/Mountains.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/Piskel Project Files/Mountains.piskel" afterPath="$PROJECT_DIR$/media/Piskel Project Files/Mountains.piskel" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/game/entities/player.js" afterPath="$PROJECT_DIR$/lib/game/entities/player.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/game/levels/test.js" afterPath="$PROJECT_DIR$/lib/game/levels/test.js" />
     </list>
     <ignored path="Dungeon-Knight.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -39,20 +36,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="player.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="player.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/game/entities/player.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="1726" max-vertical-offset="4012">
-              <caret line="127" column="44" selection-start-line="127" selection-start-column="44" selection-end-line="127" selection-end-column="44" />
+            <state vertical-scroll-proportion="0.7875" vertical-offset="3052" max-vertical-offset="4012">
+              <caret line="224" column="56" selection-start-line="224" selection-start-column="56" selection-end-line="224" selection-end-column="56" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="skeleton.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="skeleton.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/game/entities/skeleton.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7875" vertical-offset="213" max-vertical-offset="1173">
+            <state vertical-scroll-proportion="0.0" vertical-offset="213" max-vertical-offset="1173">
               <caret line="59" column="56" selection-start-line="59" selection-start-column="56" selection-end-line="59" selection-end-column="56" />
               <folding>
                 <element signature="e#0#52#0" expanded="false" />
@@ -78,8 +75,8 @@
       <list>
         <option value="$PROJECT_DIR$/lib/game/main.js" />
         <option value="$PROJECT_DIR$/lib/game/entities/skelleton.js" />
-        <option value="$PROJECT_DIR$/lib/game/entities/player.js" />
         <option value="$PROJECT_DIR$/lib/game/entities/skeleton.js" />
+        <option value="$PROJECT_DIR$/lib/game/entities/player.js" />
       </list>
     </option>
   </component>
@@ -266,7 +263,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1096" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -380,21 +377,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/game/entities/player.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1726" max-vertical-offset="4012">
-          <caret line="127" column="44" selection-start-line="127" selection-start-column="44" selection-end-line="127" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/game/entities/skeleton.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7875" vertical-offset="213" max-vertical-offset="1173">
+        <state vertical-scroll-proportion="0.0" vertical-offset="213" max-vertical-offset="1173">
           <caret line="59" column="56" selection-start-line="59" selection-start-column="56" selection-end-line="59" selection-end-column="56" />
           <folding>
             <element signature="e#0#52#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/game/entities/player.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7875" vertical-offset="3052" max-vertical-offset="4012">
+          <caret line="224" column="56" selection-start-line="224" selection-start-column="56" selection-end-line="224" selection-end-column="56" />
+          <folding />
         </state>
       </provider>
     </entry>
