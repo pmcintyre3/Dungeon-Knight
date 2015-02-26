@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1204362d-ee39-45dc-9b77-3993b58000d0" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/game/entities/ladder.js" afterPath="$PROJECT_DIR$/lib/game/entities/ladder.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/game/entities/player.js" afterPath="$PROJECT_DIR$/lib/game/entities/player.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/game/levels/test.js" afterPath="$PROJECT_DIR$/lib/game/levels/test.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/game/entities/water.js" afterPath="$PROJECT_DIR$/lib/game/entities/water.js" />
     </list>
     <ignored path="Dungeon-Knight.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -41,8 +44,8 @@
       <file leaf-file-name="ladder.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/game/entities/ladder.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="357" max-vertical-offset="3077">
-              <caret line="38" column="51" selection-start-line="38" selection-start-column="51" selection-end-line="38" selection-end-column="51" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="867">
+              <caret line="43" column="12" selection-start-line="43" selection-start-column="12" selection-end-line="43" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -51,8 +54,8 @@
       <file leaf-file-name="player.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/game/entities/player.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="1.6027821" vertical-offset="2516" max-vertical-offset="8925">
-              <caret line="209" column="40" selection-start-line="209" selection-start-column="40" selection-end-line="209" selection-end-column="40" />
+            <state vertical-scroll-proportion="-4.8608966" vertical-offset="5440" max-vertical-offset="8551">
+              <caret line="135" column="21" selection-start-line="135" selection-start-column="21" selection-end-line="135" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -73,8 +76,8 @@
       <file leaf-file-name="water.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/game/entities/water.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="323" max-vertical-offset="425">
-              <caret line="21" column="7" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="544">
+              <caret line="23" column="17" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
               <folding>
                 <element signature="e#0#52#0" expanded="false" />
               </folding>
@@ -102,11 +105,11 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/lib/game/entities/skelleton.js" />
-        <option value="$PROJECT_DIR$/lib/game/entities/water.js" />
         <option value="$PROJECT_DIR$/lib/game/entities/kill.js" />
         <option value="$PROJECT_DIR$/lib/game/main.js" />
         <option value="$PROJECT_DIR$/lib/game/entities/skeleton.js" />
         <option value="$PROJECT_DIR$/lib/game/entities/ladder.js" />
+        <option value="$PROJECT_DIR$/lib/game/entities/water.js" />
         <option value="$PROJECT_DIR$/lib/game/entities/player.js" />
       </list>
     </option>
@@ -605,16 +608,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/game/entities/water.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="425">
-          <caret line="21" column="7" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
-          <folding>
-            <element signature="e#0#52#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/game/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="510" max-vertical-offset="1275">
@@ -645,16 +638,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/game/entities/ladder.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="357" max-vertical-offset="3077">
-          <caret line="38" column="51" selection-start-line="38" selection-start-column="51" selection-end-line="38" selection-end-column="51" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="67" max-vertical-offset="867">
+          <caret line="43" column="12" selection-start-line="43" selection-start-column="12" selection-end-line="43" selection-end-column="12" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/game/entities/water.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="544">
+          <caret line="23" column="17" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#52#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/game/entities/player.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.6027821" vertical-offset="2516" max-vertical-offset="8925">
-          <caret line="209" column="40" selection-start-line="209" selection-start-column="40" selection-end-line="209" selection-end-column="40" />
+        <state vertical-scroll-proportion="-4.8608966" vertical-offset="5440" max-vertical-offset="8551">
+          <caret line="135" column="21" selection-start-line="135" selection-start-column="21" selection-end-line="135" selection-end-column="21" />
           <folding />
         </state>
       </provider>
