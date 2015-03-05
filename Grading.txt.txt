@@ -1,0 +1,38 @@
+#Grading Report
+
+## Author
+Phillip McIntyre
+3/5/2015
+pmcin3@uga.edu
+
+### Requirements
+
+* 3 Levels
+2D: Forest.js, Glade.js, Dark.js levels
+Parallax: Sun.png, Clouds.png, Mountains.png, Sky.png
+	parallax layers.
+Top-Down: overworld1.js, overworld2.js levels
+Camera View Focus: main.js, lines 94-103
+
+* Splash Screen
+Contains hand-drawn art with game logo.
+Also has a screen afterwards that set up the game premise.
+
+*Sprite - Main Player
+Dynamic: 36 sprite frames for 2D Hero, plus 10 for 
+	Top-Down Hero
+	
+* Enemy Sprites
+Static/Dynamic: All sprites have moving animations and are
+	not static. One enemy shoots  back at the player. The others
+	do high amounts of damage when they hit the player.
+
+*Types of Attack
+	Sword/Shield, Fireball, Lightning, Jump-on-Head (like Mario)
+	
+* Player Attributes
+	Health Bar in top left, weapon icon, number of lives
+	
+* Documentation
+	Combined README.md and REPORT.txt. Screenshots located
+	in ./media/ScreenShots folder.
