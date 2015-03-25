@@ -168,7 +168,7 @@ lightning at once, and the "Boss" enemies shoot sharp horns at the player.
 
 'zombie.js' - handles the AI for the zombie
 
-> all other files are included in the impactJS engine, which is also required to run the game
+> all other files are included in the impactJS or Box2D engines, which is also required to run the game
 
 > This project is also available on GitHub at github.com/pmcintyre3/Dungeon-Knight
 

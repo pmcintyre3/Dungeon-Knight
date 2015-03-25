@@ -33,6 +33,9 @@ Static/Dynamic: All sprites have moving animations and are
 * Player Attributes
 	Health Bar in top left, weapon icon, number of lives
 	
+*Box2D
+	Player and Enemy death explosions implemented inn Box2D
+	
 * Documentation
 	Combined README.md and REPORT.txt. Screenshots located
 	in ./media/ScreenShots folder.
